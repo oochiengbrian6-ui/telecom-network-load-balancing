@@ -1,0 +1,6 @@
+CPU and Memory Distribution After Load Balancing
+
+CloudZ load reduced by redistributing services.
+EdgeA and CoreY receive additional load.
+
+Overall CPU and memory utilization is more balanced.
