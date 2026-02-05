@@ -1,0 +1,6 @@
+Node,Latency_ms,Throughput_Mbps,PacketLoss_pct,CPU_pct,Memory_GB,Services
+EdgeA,10,520,0.3,40,4,"RPCCall,DataReplication"
+EdgeB,14,470,0.5,48,5,"RPCCall,Migration"
+CoreX,7,980,0.1,65,8,"TransactionCommit"
+CoreY,9,950,0.2,58,7,"Recovery,LoadBalancing"
+CloudZ,22,1250,0.4,72,16,"Analytics,RPCCall"
