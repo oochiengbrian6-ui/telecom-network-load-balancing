@@ -1,0 +1,7 @@
+Initial CPU and Memory Distribution
+
+EdgeA  - CPU: 40% | Memory: 4GB
+EdgeB  - CPU: 48% | Memory: 5GB
+CoreX  - CPU: 65% | Memory: 8GB
+CoreY  - CPU: 58% | Memory: 7GB
+CloudZ - CPU: 72% | Memory: 16GB
